@@ -28,42 +28,42 @@
             "id": "1",
             "title": "Predicting Car Accident Severity in the USA",
             "description": "Data Science",
-            "imageSrc": "",
+            "imageSrc": "https://raw.githubusercontent.com/maddiegolison/home/main/public/images/projects/accident_tree.png",
             "url": "https://github.com/maddiegolison/ms-portfolio/blob/main/USA_Accident_Analysis.pdf"
         },
         {
             "id": "2",
             "title": "CAST (Accident) Analysis of the 2018 Uber ATG Accident",
             "description": "Accident Analysis",
-            "imageSrc": "",
+            "imageSrc": "https://raw.githubusercontent.com/maddiegolison/home/main/public/images/projects/cast_flow.png",
             "url": "https://github.com/maddiegolison/ms-portfolio/blob/main/Golison_CAST_Analysis_Uber.pdf"
         },
         {
             "id": "3",
             "title": "STPA of Hypothetical Robotaxi Route",
             "description": "Hazard Analysis",
-            "imageSrc": "",
+            "imageSrc": "https://raw.githubusercontent.com/maddiegolison/home/main/public/images/projects/stpa_control.png",
             "url": "https://github.com/maddiegolison/ms-portfolio/blob/main/Golison_STPA_Robotaxi.pdf"
         },
         {
             "id": "4",
             "title": "Preset Syncing as a Photoshop Engineer",
             "description": "Software Engineering",
-            "imageSrc": "",
+            "imageSrc": "https://raw.githubusercontent.com/maddiegolison/home/main/public/images/projects/preset_sync.png",
             "url": "https://helpx.adobe.com/photoshop/using/sync-presets.html"
         },
         {
             "id": "5",
             "title": "Preset Search as a Photoshop Engineer",
             "description": "Development",
-            "imageSrc": "",
+            "imageSrc": "https://raw.githubusercontent.com/maddiegolison/home/main/public/images/projects/preset_search.png",
             "url": "https://www.youtube.com/watch?v=ux_amRYjr7M"
         },
         {
             "id": "6",
             "title": "Stripe Banking as a Service Solutions",
             "description": "Created the flow diagram in the link",
-            "imageSrc": "",
+            "imageSrc": "https://raw.githubusercontent.com/maddiegolison/home/main/public/images/projects/treasury.png",
             "url": "https://stripe.com/docs/treasury"
         }
     ],
